@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:design-23.4.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/4d69ca811145b29e6ec14700a1483133bd718eed/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/4d69ca811145b29e6ec14700a1483133bd718eed/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://C:/Android/sdk/extras/android/m2repository/com/android/support/design/23.4.0/design-23.4.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://C:/Android/sdk/extras/android/m2repository/com/android/support/design/23.4.0/design-23.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

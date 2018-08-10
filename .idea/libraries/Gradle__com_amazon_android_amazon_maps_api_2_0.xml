@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazon.android:amazon-maps-api-2.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/dbb7a5e4a4f0fc2ef0254cbfbe0026748b6592d9/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/dbb7a5e4a4f0fc2ef0254cbfbe0026748b6592d9/output/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/dbb7a5e4a4f0fc2ef0254cbfbe0026748b6592d9/output/jars/libs/MapsAPISupportLibrary.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/dbb7a5e4a4f0fc2ef0254cbfbe0026748b6592d9/output/jars/libs/MapsAPIDelegateLibrary.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

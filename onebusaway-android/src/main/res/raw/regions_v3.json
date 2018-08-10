@@ -1,0 +1,40 @@
+{
+  "code": 200,
+  "text": "OK",
+  "version": 3,
+  "data": {
+    "list": [
+
+
+      {
+        "siriBaseUrl": null,
+        "supportsEmbeddedSocial": true,
+        "obaVersionInfo": "1.1.14|1|1|14|73aea0d ",
+        "supportsSiriRealtimeApis": false,
+        "open311Servers": [],
+        "language": "en_US",
+        "supportsObaDiscoveryApis": true,
+        "twitterUrl": "",
+        "supportsObaRealtimeApis": true,
+        "bounds": [
+          {
+            "lat": -20.831661065056863,
+            "latSpan": 0.004756474648118569,
+            "lon": -41.15636095404624,
+            "lonSpan": 0.0032142922282218933
+          }
+        ],
+        "otpBaseUrl": null,
+        "contactEmail": "customerfeedback@sdmts.com",
+        "otpContactEmail": null,
+        "stopInfoUrl": null,
+        "active": true,
+        "facebookUrl": "",
+        "obaBaseUrl": "http://daysoff.club/",
+        "id": 11,
+        "experimental": false,
+        "regionName": "Cachoeiro de Itapemirim"
+      }
+    ]
+  }
+}
